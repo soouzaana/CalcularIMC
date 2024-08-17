@@ -1,9 +1,9 @@
 # Calculadora de IMC
 
 <p align="center">
-  <img src="assets/CalculadoraIMC.png" alt="Demosntração da tela">
-  Demonstração da tela
-</p>
+  <img src="assets/CalculadoraIMC.png">
+</p><p align="center">Demonstração da tela</p>
+
 
 ## Sobre
 
